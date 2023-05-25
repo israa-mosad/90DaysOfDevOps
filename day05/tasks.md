@@ -29,17 +29,12 @@ You may need to use loops or commands (or both), based on your preference . [Che
  2) Create a Script to backup all your work done till now.
 
  Backups are an important part of DevOps Engineers day to Day activities
- The video in References will help you to understand How a DevOps Engineer takes backups (it can feel a bit difficult but keep trying, Nothing is impossible.)
- Watch [this video](https://youtu.be/aolKiws4Joc) 
- 
- In case of Doubts, post it in [Discord Channel for #90DaysOfDevOps](https://discord.gg/hs3Pmc5F)
 
 
  3) Read About Cron and Crontab, to automate the backup Script
  
  Cron is the system's main scheduler for running jobs or tasks unattended. A command called crontab allows the user to submit, edit or delete entries to cron. A crontab file is a user file that holds the scheduling information.
 
- Watch This video as a Reference to Task 2 and 3 [https://youtu.be/aolKiws4Joc](https://youtu.be/aolKiws4Joc)
 
 
  4) Read about User Management and Let me know on Linkedin if you're ready for Day 6. 
@@ -51,5 +46,4 @@ A user is an entity, in a Linux operating system, that can manipulate files and 
 
 [Check out this reference: https://www.geeksforgeeks.org/user-management-in-linux/](https://www.geeksforgeeks.org/user-management-in-linux/)
 
- Post your daily work on Linkedin and le [me](https://www.linkedin.com/in/shubhamlondhe1996/) know , writing an article is the best :)
 
